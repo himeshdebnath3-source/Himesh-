@@ -1,0 +1,32 @@
+let products = [
+  {
+    name: "Wooden Mask",
+    price: 999,
+    category: "Wood",
+    img: "https://images.unsplash.com/photo-1598300056393-4aac492f4344?w=500"
+  },
+  {
+    name: "Dhokra Art",
+    price: 1499,
+    category: "Metal",
+    img: "https://images.unsplash.com/photo-1610701596007-11502861dcfa?w=500"
+  },
+  {
+    name: "Bastar Iron Craft",
+    price: 1299,
+    category: "Metal",
+    img: "https://images.unsplash.com/photo-1602524815944-5b3c4e7a8b3c?w=500"
+  },
+  {
+    name: "Tribal Jewellery",
+    price: 599,
+    category: "Jewellery",
+    img: "https://images.unsplash.com/photo-1611599537845-1c8a0f1c0d07?w=500"
+  },
+  {
+    name: "Wooden Wall Art",
+    price: 899,
+    category: "Wood",
+    img: "https://images.unsplash.com/photo-1582582429416-8c8bfa1b0e4b?w=500"
+  }
+];
